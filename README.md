@@ -1,13 +1,18 @@
-# React + TypeScript + Vite
+# Vite (React + TypeScript) - Usando estado em idioma inglês e portuquês.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Objetivo
 
-Currently, two official plugins are available:
+Criar um estado para mudar o idioma do site inteiro, de acordo com a opção definida pelo usuário.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Como surgio a nescessidade
 
-## Expanding the ESLint configuration
+Na comuniddade do Discord da Rocketseat um colega fez a pergunta de como mudar o idioma do projeto criado em vite. Para testar minha teoria na utilização do estado para a mudança do idioma fiz esse projeto mostrando essa funcionalidade no arquivo src/App.tsx.
+
+## Como rodar o projeto
+
+```bash
+git clone
+```
 
 If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
