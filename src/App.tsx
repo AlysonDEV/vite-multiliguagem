@@ -3,13 +3,6 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 
-// interface iLanguage {
-//   language: string
-// }
-
-// const iLanguage = (
-//   language: 'pt'|'en'
-// )
 
 function App() {
   const [count, setCount] = useState(0)
@@ -39,7 +32,6 @@ function App() {
     }
   }
 
-  console.log(lang_new)
 
   return (
     <>

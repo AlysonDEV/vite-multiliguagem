@@ -4,7 +4,11 @@
 
 Criar um estado para mudar o idioma do site inteiro, de acordo com a opção definida pelo usuário.
 
+Captura de tela inglês:
+![print inglês](/assets_github/print-en.png)
 
+Captura de tela portuquês:
+![print portuquês](/assets_github/print-pt.png)
 
 ## Como surgio a nescessidade
 
